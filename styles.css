@@ -10,3 +10,7 @@ header {
     font-size: 32px;
     color: rgb(203, 148, 85);
 }
+
+section {
+    background: rgb(0, 217, 255)
+}
