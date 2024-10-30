@@ -12,8 +12,8 @@ header {
 }
 
 section {
-    background: gray
-    padding-bottom: 80px;
-    padding-top: 80px;
+    background: gray;
+   padding-bottom: 80px;
+   padding-top: 80px;
     display: flex;
 }
