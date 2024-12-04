@@ -34,3 +34,8 @@ section {
     img {
         height: 200px;
     }
+
+    .categoria-videoaulas {
+        display: flex;
+        overflow-x: auto;
+    }
