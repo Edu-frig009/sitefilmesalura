@@ -54,3 +54,7 @@ header {
         opacity: 1.0;
         border: 2px solid green;
     }
+
+    .categoria h2{
+        color: rgb(203, 148, 85);
+    }
