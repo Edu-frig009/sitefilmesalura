@@ -31,9 +31,7 @@ header {
     p {
         font-size: 20px;
     }
-    img {
-        height: 200px;
-    }
+    
 
     .categoria-videoaulas {
         display: flex;
@@ -44,4 +42,14 @@ header {
     .categoria {
         padding-left: 20px;
         padding-right: 20px;
+    }
+
+    .categoria-videoaulas img {
+       opacity: 0.5;
+       height: 200px;
+
+    }
+
+    .categoria-videoaulas img:hover {
+        opacity: 1.0;
     }
